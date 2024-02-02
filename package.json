@@ -1,0 +1,16 @@
+{
+  "name": "mk-frame-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-gamepad": "^0.1.15",
+    "node-hid": "^3.0.0",
+    "robotjs": "^0.6.0"
+  }
+}
